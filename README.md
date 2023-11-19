@@ -1,2 +1,2 @@
-# Class Membership B4X
- Class Membership Application
+# Membership
+ Class Membership source code

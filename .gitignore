@@ -1,23 +1,17 @@
 # Gradle files
 .gradle/
 build/
+#(B4X) B4A, B4J, B4i, B4R Generated Files
+bin/
+gen/
+src/
+objects/
+AutoBackups/
 
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
 *.apk
-output.json
+*.dex
+*b4a.meta
 
-# IntelliJ
-*.iml
-.idea/
 
 # Keystore files
 *.jks
@@ -26,5 +20,4 @@ output.json
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
-# Android Profiling
-*.hprof
+
