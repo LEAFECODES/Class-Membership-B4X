@@ -1,4 +1,4 @@
-# Membership
+# Class Membership Tutorial
  Class Membership source code for Android and iOS using B4X.
 
  This introduces you to Crossplatform B4XPages framework which makes it easy to share Code accros platforms (Android, iOS, PC)
