@@ -1,23 +1,12 @@
-# Gradle files
-.gradle/
-build/
-#(B4X) B4A, B4J, B4i, B4R Generated Files
-bin/
-gen/
-src/
-objects/
-AutoBackups/
+# Ignore meta files
+*.meta
 
-*.apk
-*.dex
-*b4a.meta
+# Ignore subfolders and their contents
+B4A/Objects/
+B4A/Autobackups/
 
+B4i/Objects/
+B4i/Autobackups/
 
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-
+B4J/Objects/
+B4J/Autobackups/
